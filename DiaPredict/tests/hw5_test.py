@@ -11,6 +11,7 @@ from DiaPredict.hw5 import Patient, Card, Deck, Triangle, Rectangle, Circle
 
 ###########################################
 # Define a test class for the Patient class
+###########################################
 class TestPatient(unittest.TestCase):
     
     # Test if the patient is likely to have COVID when they test positive
